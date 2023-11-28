@@ -3,7 +3,7 @@
 ✨ **Trabalho na áre de TI**
 
 🏢 **Atuação Profissional**
-- 🚀 Analista de Infraestrura
+- 🚀 Analista de Infraestrutura
 - 🎓 Redes de Computador
 
 ### 📊 Estatísticas no GitHub
